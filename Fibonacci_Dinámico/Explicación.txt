@@ -1,0 +1,1 @@
+Se incluye el mismo programa en Haskell para poder apreciar la diferencia en tiempo de ejecución.
